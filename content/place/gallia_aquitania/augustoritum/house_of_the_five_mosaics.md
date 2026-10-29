@@ -4,7 +4,7 @@ type: garden
 title: House Of The Five Mosaics
 latlon: [ 45.530566, 4.869102 ]
 author: Sudeep Abburu
-translator: Sudeep Abburu
+translator:
 contributor: Sudeep Abburu
 date: 2026-05-07
 
@@ -23,7 +23,6 @@ Situated west of the forum, part of insula VI-5, this house had two successive p
 The House of the Lion Emblema was organized around a central garden with peristyle [1] of 20 by 23 meters.  The floor of the porticoes is white concrete with calcite aggregates.  The columns supporting the roof of the portico rest on a low wall covered by plaster painted red.  To the north, on the axis of the garden, was the triclinium [2] (12.6 x 7.8 m) where were found two black-and-white carpet mosaics, with the emblema of the lion in the northern one.  South of the garden, it is worth noting, there was a bath.
 
 For no apparent reason, this beautiful house was destroyed and another, the House of the Opus Quadratum, was superimposed on the previous foundations, keeping practically the same plan.  The garden with portico [1] of 440 square meters had in the northern part a foundation for a pool or perhaps for monumental stairs connecting the portico to the garden.  The limestone columns were apparently Corinthian. The northern portico had a floor of opus signinum; the floors of the other galleries were bare.  To the north, the reception room [3] was reduced in length to 9.8 by 7.8 meters, but flanked by symmetric rooms with larger mosaics than those of the preceding phase.  This room, lying on the axis of the possible pool or steps, was embellished by a luxurious paving with an opus quadratum motif  made of marble rectangles.  South of the garden, an important room [4] (12 meters on a side) served as a vestibule for the main room and marked the end of this house, which was later connected to its neighbor  In the center of the room was a pool with a rim and paving of white marble and a water jet in the center. 
-
 
 
 <!--
@@ -48,14 +47,28 @@ For no apparent reason, this beautiful house was destroyed and another, the Hous
 ## Bibliography
 - Loustaud, J.P. 2000. Limoges Antique. Travaux d’Archéologie Limousine suppl. 5, 191–96. Limoges: Association des Antiquités Historiques du Limousin.
 
-<!--
-## Keywords
-- {{< keyword "example" >}}
--->
 
-<!--
+## Keywords
+{{< keyword "domus" >}}
+{{< keyword "peristyles" >}}
+{{< keyword "courtyards" >}}
+{{< keyword "porticoes" >}}
+{{< keyword "reception rooms" >}}
+{{< keyword "mosaics" >}}
+{{< keyword "opus signinum" >}}
+{{< keyword "pools" >}}
+{{< keyword "rills" >}}
+{{< keyword "socles" >}}
+{{< keyword "foundations" >}}
+{{< keyword "medallions" >}}
+{{< keyword "tesserae" >}}
+{{< keyword "Marcus Aurelius" >}}
+{{< keyword "Early Imperial" >}}
+
+
+
+
 ## Places
 places containing this garden will be listed automatically
 - {{< id vocab="Pleiades" id="" name="" >}}
 - {{< id vocab="TGN" id="" name="" >}}
--->
