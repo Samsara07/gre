@@ -66,7 +66,6 @@ For no apparent reason, this beautiful house was destroyed and another, the Hous
 
 
 ## Places
-<!-- TODO: find links -->
 places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="" name="" >}}
-- {{< id vocab="TGN" id="" name="" >}}
+- {{< id vocab="Pleiades" id="138203" name="Augustoritum" >}}
+- {{< id vocab="TGN" id="7008410" name="Limoges" >}}
