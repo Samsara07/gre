@@ -6,7 +6,7 @@ latlon: [ 45.8289, 1.2667 ]
 author: Sudeep Abburu
 translator:
 contributor: Sudeep Abburu
-date: 2026-05-07
+date: 2026-07-11
 
 draft: true
 ---
@@ -15,7 +15,9 @@ draft: true
 late 1st century BCE - early 3rd centry CE
 
 ## Excavation Dates
-<!-- TODO: find real excavation dates from Loustaud -->
+unspecified
+<!-- TODO: find real excavation dates from Loustaud, can only find data on the other ruin with the same name -->
+
 
 ## Garden Description
 Situated west of the forum, part of insula VI-5, this house had two successive phases. The first is called House of the Lion Emblema ; the second, House with the Opus Quadratum. Each occupied about 2300 square meters. 
@@ -32,7 +34,7 @@ For no apparent reason, this beautiful house was destroyed and another, the Hous
 
 
 ## Plans
-<!--TODO: add filenames
+<!--TODO: add files
 {{< image file="" caption="Fig. 1: Phase 1 plan of the House of the Five Mosaics." credit="Courtesy of Limoges Antique." alt="Picture of structural plans of phase 1 of site." >}}
 
 {{< image file="" caption="Fig. 2: Phase 2 plan of the House of the Five Mosaics." credit="Courtesy of Limoges Antique." alt="Picture of structural plans of phase 2 of site.">}}
@@ -45,7 +47,8 @@ For no apparent reason, this beautiful house was destroyed and another, the Hous
 -->
 
 ## Bibliography
-- Loustaud, J.P. 2000. Limoges Antique. Travaux d’Archéologie Limousine suppl. 5, 191–96. Limoges: Association des Antiquités Historiques du Limousin.
+<!-- TODO: add WorldCat link -->
+- Loustaud, J.P. 2000. Limoges Antique. Travaux d'Archéologie Limousine suppl. 5, 191–96. Limoges: Association des Antiquités Historiques du Limousin. [(worldcat)](WORLDCAT_LINK_URL)
 
 
 ## Keywords
@@ -67,5 +70,6 @@ For no apparent reason, this beautiful house was destroyed and another, the Hous
 
 ## Places
 places containing this garden will be listed automatically
-- {{< id vocab="Pleiades" id="138203" name="Augustoritum" >}}
+<!-- There is no pleiades or TGN entry for the house. TGN entry goes to the town of Limoges-->
+- {{< id vocab="Pleiades" id="" name="" >}}
 - {{< id vocab="TGN" id="7008410" name="Limoges" >}}
