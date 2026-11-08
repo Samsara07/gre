@@ -2,7 +2,7 @@
 slug: "1e065832bd"
 type: garden
 title: House Of The Five Mosaics
-latlon: [ 45.530566, 4.869102 ]
+latlon: [ 45.8289, 1.2667 ]
 author: Sudeep Abburu
 translator:
 contributor: Sudeep Abburu
@@ -15,7 +15,7 @@ draft: true
 late 1st century BCE - early 3rd centry CE
 
 ## Excavation Dates
-1967-1969
+<!-- TODO: find real excavation dates from Loustaud -->
 
 ## Garden Description
 Situated west of the forum, part of insula VI-5, this house had two successive phases. The first is called House of the Lion Emblema ; the second, House with the Opus Quadratum. Each occupied about 2300 square meters. 
@@ -57,12 +57,9 @@ For no apparent reason, this beautiful house was destroyed and another, the Hous
 {{< keyword "mosaics" >}}
 {{< keyword "opus signinum" >}}
 {{< keyword "pools" >}}
-{{< keyword "rills" >}}
 {{< keyword "socles" >}}
 {{< keyword "foundations" >}}
-{{< keyword "medallions" >}}
 {{< keyword "tesserae" >}}
-{{< keyword "Marcus Aurelius" >}}
 {{< keyword "Early Imperial" >}}
 
 
